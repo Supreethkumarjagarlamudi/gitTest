@@ -1,3 +1,5 @@
 # gitTest
 
-branch 1
+branch 2
+
+this is a test
